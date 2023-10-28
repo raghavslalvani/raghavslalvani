@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @raghavslalvani
+- 🌱 I’m a Full Stack Web Developer with 2+ yoe.
+- 🧑‍💻 Tech Stack : Angular, .NET Framework, JS, TS, HTML, CSS.
 - 👀 I’m interested in Web3, Defi, Blockchain, DAOs, Cryptocurrency
-- 🌱 I’m currently learning Full Stack Development using Angular and .Net Framework
-- 💞️ I’m looking to collaborate on Web3 Related Topics
+- 💞️ I’m looking to collaborate on Web3 and Web Related Topics
 - 📫 How to reach me:
 - https://www.linkedin.com/in/raghav-lalvani-756b1b72/
 
