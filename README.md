@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raghavslalvani
+- 👋 Hi, I’m Raghav Lalvani
 - 🌱 I’m a Full Stack Web Developer with 2+ yoe.
 - 🧑‍💻 Tech Stack : Angular, .NET Framework, JS, TS, HTML, CSS.
 - 👀 I’m interested in Web3, Defi, Blockchain, DAOs, Cryptocurrency
